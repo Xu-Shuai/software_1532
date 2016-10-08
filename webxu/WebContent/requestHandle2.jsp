@@ -15,19 +15,19 @@ String s3=request.getParameter("3");
 String s4=request.getParameter("4");
 if(s1==null)
 	s1="";
+else if(s1.equals("B"))
+	e++;
 if(s2==null)
 	s2="";
+else if(s2.equals("A"))
+	e++;
 if(s3==null)
 	s3="";
+else if(s3.equals("C"))
+	e++;
 if(s4==null)
 	s4="";
-if(s1.equals("B"))
-	e++;
-if(s2.equals("A"))
-	e++;
-if(s3.equals("C"))
-	e++;
-if(s4.equals("D"))
+else if(s4.equals("D"))
 	e++;
 int a=e/4*100;
 String str=null;

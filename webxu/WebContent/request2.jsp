@@ -9,26 +9,26 @@
 <body>
 <p align="center"><h2>宛若一个智障</h2></p>
 <form action="requestHandle2.jsp" method="get">
-1.一个智障
-<p><input type="radio" name="1" value="A"/>宛若一个智障</p>
-<p><input type="radio" name="1" value="B"/>宛若一个智障</p>
-<p><input type="radio" name="1" value="C"/>宛若一个智障</p>
-<p><input type="radio" name="1" value="D"/>宛若一个智障</p>
-2.两个智障
-<p><input type="radio" name="2" value="A"/>宛若一个智障</p>
-<p><input type="radio" name="2" value="B"/>宛若一个智障</p>
-<p><input type="radio" name="2" value="C"/>宛若一个智障</p>
-<p><input type="radio" name="2" value="D"/>宛若一个智障</p>
-3.三个智障
-<p><input type="radio" name="3" value="A"/>宛若一个智障</p>
-<p><input type="radio" name="3" value="B"/>宛若一个智障</p>
-<p><input type="radio" name="3" value="C"/>宛若一个智障</p>
-<p><input type="radio" name="3" value="D"/>宛若一个智障</p>
-4.四个智障
-<p><input type="radio" name="4" value="A"/>宛若一个智障</p>
-<p><input type="radio" name="4" value="B"/>宛若一个智障</p>
-<p><input type="radio" name="4" value="C"/>宛若一个智障</p>
-<p><input type="radio" name="4" value="D"/>宛若一个智障</p>
+1.1+1等于几
+<p><input type="radio" name="1" value="A"/>4</p>
+<p><input type="radio" name="1" value="B"/>2</p>
+<p><input type="radio" name="1" value="C"/>9</p>
+<p><input type="radio" name="1" value="D"/>1</p>
+2.从一到十的数的和是
+<p><input type="radio" name="2" value="A"/>55</p>
+<p><input type="radio" name="2" value="B"/>45</p>
+<p><input type="radio" name="2" value="C"/>49</p>
+<p><input type="radio" name="2" value="D"/>65</p>
+3.从一到一百的数的和是
+<p><input type="radio" name="3" value="A"/>2050</p>
+<p><input type="radio" name="3" value="B"/>5000</p>
+<p><input type="radio" name="3" value="C"/>5050</p>
+<p><input type="radio" name="3" value="D"/>5500</p>
+4.一下那一个是铁制品
+<p><input type="radio" name="4" value="A"/>笔头</p>
+<p><input type="radio" name="4" value="B"/>电线</p>
+<p><input type="radio" name="4" value="C"/>光缆</p>
+<p><input type="radio" name="4" value="D"/>学校大门</p>
 <button type="submit">测试完成</button>
 </form>
 
